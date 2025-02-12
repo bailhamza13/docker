@@ -1,3 +1,47 @@
+# Mon Projet Docker
+
+Description de mon projet Docker.
+
+## Images
+
+Voici quelques images illustrant le projet :
+
+![Capture d'écran de Capture](images/Capture.PNG)
+Capture d'écran de l'application.
+
+![Container Docker](images/container.PNG)
+Description du container Docker.
+
+![Autres images](images/images.PNG)
+Plus d'images.
+
+![Information](images/info.PNG)
+Information.
+
+![Processus](images/ps.PNG)
+Les processus.
+
+![Pull Image](images/pull.PNG)
+Tirer une image.
+
+![Run](images/Run.PNG)
+Executer.
+
+![Stop](images/stop.PNG)
+Stopper.
+
+![Suppression](images/suppression.PNG)
+Supprimer.
+
+![Version](images/version.PNG)
+Version.
+
+## Installation
+
+Instructions d'installation...
+
+
+
 # Commandes Docker
 
  1. Supprimer un conteneur spécifique
